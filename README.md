@@ -13,4 +13,4 @@ Este repositorio contiene los ejercicios, talleres y proyectos desarrollados dur
 
 
 ---
-*Desarrollado por [Tatian Gomez Chaves] - Estudiante de Data Science*
+*Desarrollado por Tatiana Gomez Chaves - Estudiante de Data Science*
